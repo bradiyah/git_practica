@@ -4,5 +4,8 @@ public class Main {
   public static void main(String[] args) {
     System.out.println("version inicial del proyecto");
     System.out.println("funcionalidad login implementada");
+    System.out.println("funcionalidad de registro implementada");
+
+
   }
-}
+};
